@@ -121,7 +121,7 @@ html {
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 26px;
     font-style: italic;
     color: #1F2937;
     margin: 0;
@@ -163,6 +163,14 @@ html {
     width: 100px;
     height: 35px;
     align-self: center;
+}
+
+/* footer */
+.footer {
+    background: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 0.1px;
 }
 
 
